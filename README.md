@@ -1,0 +1,1 @@
+# thingsboard-postman-device-extraction
